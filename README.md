@@ -1,2 +1,1 @@
-# scripts
 My own scripts
