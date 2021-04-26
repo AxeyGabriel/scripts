@@ -10,3 +10,5 @@ NET-SNMP 5.7.3
 FreeBSD 12.1-RELEASE-p4
 
 I tried to run it in my Linux laptop but it doenst work(fuck gnu userland).
+PS: Github's README.md doesnt know what a newline is
+*Sucks* really bad
