@@ -7,7 +7,9 @@
 #
 # olt_list csv file format:
 # IP,VERSION,NAME,COMMUNITY,IGNORE
-# Add as many as you want. 
+# Add as many as you want.
+#
+# SNMP SUCKS
 #
 # Written by Axey Gabriel Muller Endres
 # 02 February 2021
