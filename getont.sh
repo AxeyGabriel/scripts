@@ -36,8 +36,6 @@ echo "Cleaning old files if necessary"
 rm -f $olt_list
 rm -f $csv_file
 rm -f $ont_list
-rm -f $zabbixsender_discovery_file
-rm -f $zabbixsender_data_file
 
 #### OLTS
 
